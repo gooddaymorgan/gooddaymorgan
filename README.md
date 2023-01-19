@@ -1,10 +1,12 @@
 # Good Day, I'm Morgan!🌼
 
-My name is Morgan. I'm currently studying to become a fullstack developer. I'm currently in my final semester of school, and I'll be fully graduated in March!
+My name is Morgan. I'm currently studying to become a front-end developer. I'm currently in my final semester of school, and I'll be fully graduated in March!
 
 ## A Little About Me...
 
-- 🔭 I’m currently working on <b>databases + Javascript + learning Git! </b>
+- Programmer with a background in digital design
+- Languages: Javascript, HTML, CSS, JSON, Bootstrap
+- Learning: (More) Javascript, Databases, Version Control
 
 ### Projects
 
