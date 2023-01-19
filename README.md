@@ -1,12 +1,11 @@
 # Good Day, I'm Morgan!🌼
 
-<hr>
+My name is Morgan. I'm currently studying to become a fullstack developer. I'm currently in my final semester of school, and I'll be fully graduated in March!
+
 ## A Little About Me...
 
 - 🔭 I’m currently working on <b>databases + Javascript + learning Git! </b>
-- ⚡ Fun fact: I love cats! 
 
-<hr>
 ### Projects
 
 Coming Soon!
