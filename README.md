@@ -9,8 +9,8 @@ My name is Morgan. I'm currently studying to become a front-end developer. I'm c
 - Frameworks: Bootstrap, React Native, Three.js
 - Learning: (more) React Native, Python, mobile development
 
-### Projects
+## Projects
 
-## Pokemon Database
+### Pokemon Database
 - This was an exercise to practice using javascript to fetch JSON data.
 - Takes JSON data and displays it as pokemon wiki
