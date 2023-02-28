@@ -11,4 +11,6 @@ My name is Morgan. I'm currently studying to become a front-end developer. I'm c
 
 ### Projects
 
-Coming Soon!
+## Pokemon Database
+- This was an exercise to practice using javascript to fetch JSON data.
+- Takes JSON data and displays it as pokemon wiki
