@@ -1,6 +1,6 @@
 # Good Day, I'm Morgan!🌼
 
-My name is Morgan. I'm currently studying to become a front-end developer. I'm currently in my final semester of school, and I'll be fully graduated in June!
+My name is Morgan. I'm currently studying to become a front-end developer. I'm currently in my final semester of school, and I'll be fully graduated in June of 2023!
 
 ## A Little About Me...
 
