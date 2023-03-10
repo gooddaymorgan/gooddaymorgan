@@ -22,3 +22,7 @@ My name is Morgan. I'm currently studying to become a front-end developer. I'm c
 ### FireFly Tattoos
 - This project was assigned to create a static website for a fictional company.
 - This was primarly a design project
+
+### Interactive Room (WIP)
+- This project is an interactive room using the framework Three.js 
+- This project displays a room that was created in blender and is made interactive on the web using webGL & three
