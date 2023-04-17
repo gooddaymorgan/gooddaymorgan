@@ -6,8 +6,8 @@ My name is Morgan. I'm currently studying to become a front-end developer. I'm c
 
 - Programmer with a background in digital design
 - Languages: Javascript, HTML, CSS, JSON , mySQL
-- Frameworks: Bootstrap, React, React Native, Three.js
-- Learning: (more) React Native, mobile development, three.js
+- Frameworks: Bootstrap, React.js, React Native, Three.js
+- Learning: AR.js. mobile development
 
 ## Projects
 
