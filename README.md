@@ -11,7 +11,7 @@ My name is Morgan. I'm currently studying to become a front-end developer. I'm c
 
 ## Projects
 
-### F The Weather
+### Saskatchewan Weather App
 - This project was co-created with a fellow student, Leah C.
 - Together we created a javascript web application that fetches an API displays the weather from 5 Saskatchewan cities
 
